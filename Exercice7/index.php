@@ -1,5 +1,5 @@
 <?php
-$ok = false;
+$ok = true;
 ?>
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
@@ -11,7 +11,7 @@ $ok = false;
 </head>
 <body>
   <div class="jumbotron m-auto text-center">
-    <h1>How old?</h1>
+    <h1>Is it ok?</h1>
     <?php
     if($ok == false){
       echo "Ce n'est pas bon!";

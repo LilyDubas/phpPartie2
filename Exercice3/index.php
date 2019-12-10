@@ -20,7 +20,7 @@
         value="homme">Homme
       </p>
 
-      <p>Votre age: <input type="text" name="age" /></p>
+      <p>Votre age: <input type="number" name="age" /></p>
       <p><input type="submit" /></p>
     </form>
 
